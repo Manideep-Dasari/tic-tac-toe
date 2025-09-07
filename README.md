@@ -27,3 +27,7 @@ To run the game locally:
 1. Clone the repo:
    ```bash
    git clone https://github.com/Manideep-Dasari/tic-tac-toe.git
+
+🙌 Acknowledgements
+
+Made as part of my practice projects using JavaScript.
