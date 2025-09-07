@@ -4,7 +4,7 @@ A classic **Tic Tac Toe** game implemented using **HTML**, **CSS**, and **JavaSc
 
 ## 🎮 Live Demo
 
-[👉 file:///C:/Users/mdeep/OneDrive/Desktop/Web%20Dev/JS/TIC_TAC_TOE/index.html](#) 
+👉 [file:///C:/Users/mdeep/OneDrive/Desktop/Web%20Dev/JS/TIC_TAC_TOE/index.html](#) 
 
 ## 🧩 Features
 
